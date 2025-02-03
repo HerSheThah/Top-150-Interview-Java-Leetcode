@@ -1,4 +1,4 @@
-package aArray.MergeSortedArray88;
+package aArray.Easy.MergeSortedArray88;
 
 import java.util.Arrays;
 

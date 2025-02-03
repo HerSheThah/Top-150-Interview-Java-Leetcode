@@ -1,4 +1,4 @@
-package aArray.RemoveElement27;
+package aArray.Easy.RemoveDuplicatesSorted26;
 
 import java.util.Arrays;
 
